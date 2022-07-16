@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="RUBI" tvg-logo="http://media.c-x-c.media/picons/ES/tvela1hd.png" group-title="ESPANHA",ES: RADIO bY SiSKO
+https://node-12.zeno.fm/5quhqac44d0uv?1633550128=&rj-tok=AAABfFc8X7oAWlXLJX_DPoDbrw&rj-ttl=5
 
 #EXTINF:-1 group-title="RUBI" tvg-logo="http://media.c-x-c.media/picons/ES/tvela1hd.png" group-title="ESPANHA",ES: LA 1 HD
 http://theking365tv.me/play/live.php?mac=00:1a:79:4e:a1:72&stream=2152&extension=ts
